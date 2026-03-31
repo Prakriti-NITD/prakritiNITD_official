@@ -622,9 +622,9 @@ const members2027List = [
         post: "Core Member"
     },
     {
-        name: "SOLOMAN RAJ",
+        name: "SOLOMANA RAJ",
         img: "./img/2027/Soloman.jpg",
-        post: "Jr. Event Coordinator"
+        post: "Jr. Event Head"
     },
     {
         name: "ALTHI GANESH",
@@ -652,7 +652,7 @@ const members2027List = [
         post: "Tech Member"
     },
     {
-        name: "PRAGNASRI.K",
+        name: "PRANGASIRK",
         img: "./img/2027/Pragna Sri.jpg",
         post: "Core Member"
     },
@@ -686,11 +686,11 @@ const members2027List = [
         img: "./img/2027/Samudrika.jpg",
         post: "Jr. Sponsorship Head"
     },
-    {
-        name: "ROHAN DEY",
-        img: "./img/2027/Rohan.jpeg",
-        post: "Tech Member"
-    },
+    // {
+    //     name: "ROHAN DEY",
+    //     img: "./img/2027/Rohan.jpeg",
+    //     post: "Tech Member"
+    // },
     {
         name: "AYAN SINHA",
         img: "./img/2027/Ayan1.jpg",
@@ -830,7 +830,7 @@ const postBearersList = [
         post: "Logistics Head"
     },
     {
-        name: "RUPAM HEAD",
+        name: "RUPAM KUMAR",
         img: "./img/2026/Rupam2.jpg",
         post: "GD Head"
     },
