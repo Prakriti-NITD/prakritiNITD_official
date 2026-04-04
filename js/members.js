@@ -766,11 +766,111 @@ const members2028List = [
         name: "G. AKSHAY REDDY",
         img: "./img/2028/AKSHAY.jpg",
         post: "WEB DEVELOPMENT"
-    }
+    },
+    {
+        name: "AAKASH THAKUR",
+        img: "./img/2028/aakash.jpg",
+        post: "WEB DEVELOPMENT"
+    },
+    {
+        name: "ADARSH RAJ",
+        img: "./img/2028/adarsh.jpg",
+        post: "EVENT MANAGEMENT"
+    },
+    {
+        name: "SAHIL KUMAR",
+        img: "./img/2028/sahil.jpg",
+        post: "EVENT MANAGEMENT"
+    },
+    {
+        name: "KAVYA SAH",
+        img: "./img/2028/kavya.jpg",
+        post: "WEB DEVELOPMENT"
+    },
+    {
+        name: "NIHARIKA MISHRA",
+        img: "./img/2028/niharika.jpg",
+        post: "WEB DEVELOPMENT"
+    },
+    {
+        name: "MANEESHA GONDU",
+        img: "./img/2028/maneesha.jpeg",
+        post: "VIDEO EDITING"
+    },
+    {
+        name: "TOLARAM KEWATIYA",
+        img: "./img/2028/tolaram.jpg",
+        post: "GRAPHIC DESIGNING"
+    },
+    {
+        name: "APOORVA NERELLA",
+        img: "./img/2028/apoorva.jpeg",
+        post: "CONTENT WRITING"
+    },
 ];
 
-
-
+const members2029List = [
+    {
+        name: "ABHISHEK KUMAR",
+        img: "img/2029/abhishek_kumar.jpg",
+        post: "EVENT MANAGEMENT"
+    },
+    {
+        name: "AKASH KUMAR",
+        img: "img/2029/akash.jpeg",
+        post: "GRAPHIC DESIGNING"
+    },
+    {
+        name: "MAGAPU JOY",
+        img: "img/2029/joy.jpg",
+        post: "CONTENT WRITING"
+    },
+    {
+        name: "JYOTI KUMARI",
+        img: "img/2029/jyoti.jpg",
+        post: "GRAPHIC DESIGNING"
+    },
+    {
+        name: "K KALYANI CHOWHAN",
+        img: "img/2029/kalyani.jpg",
+        post: "WEB DEVELOPMENT"
+    },
+    {
+        name: "M KEVIN JOSHUA",
+        img: "img/2029/kevin.jpg",
+        post: "CONTENT WRITING"
+    },
+    {
+        name: "TUNGANA NAVYASRI",
+        img: "img/2029/navya1.jpg",
+        post: "GRAPHIC DESIGNING"
+    },
+    {
+        name: "PRATYAKSH RAJ",
+        img: "img/2029/pratyaksh.jpg",
+        post: "RESEARCH AND DEVELOPMENT"
+    },
+    {
+        name: "RISHU RAJ",
+        img: "img/2029/rishu.jpeg",
+        post: "EVENT MANAGEMENT"
+    },
+    {
+        name: "VINAYAK EERLA",
+        img: "img/2029/vinayak.jpg",
+        post: "VIDEO EDITING"
+    },
+    {
+        name: "BHARAT PRAJAPAT",
+        img: "img/2029/bharat.jpg",
+        post: "EVENT MANAGEMENT"
+    },
+    {
+        name: "VARSHITH SHARMA",
+        img: "img/2029/varshith.jpg",
+        post: "VIDEO EDITING"
+    }
+];
 
 
 const postBearersList = [
