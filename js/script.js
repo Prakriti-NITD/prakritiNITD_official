@@ -30,7 +30,7 @@ postBearersList.map((data, index) => {
     `
 });
 
-sortByName(members2021List).map((data, index) => {
+members2021List.map((data, index) => {
     alumni2021.innerHTML += `
         <div class="rj-card rj-card-sm">
             <img src="${data.img}">
@@ -42,7 +42,7 @@ sortByName(members2021List).map((data, index) => {
     `
 });
 
-sortByName(members2022List).map((data, index) => {
+members2022List.map((data, index) => {
     alumni2022.innerHTML += `
     <div class="rj-card rj-card-sm">
         <img src="${data.img}">
@@ -54,7 +54,7 @@ sortByName(members2022List).map((data, index) => {
 `
 });
 
-sortByName(members2023List).map((data, index) => {
+members2023List.map((data, index) => {
     alumni2023.innerHTML += `
     <div class="rj-card rj-card-sm">
         <img src="${data.img}">
@@ -66,7 +66,7 @@ sortByName(members2023List).map((data, index) => {
 `
 });
 
-sortByName(members2024List).map((data, index) => {
+members2024List.map((data, index) => {
     members2024.innerHTML += `
         <div class="rj-card rj-card-sm">
             <img src="${data.img}">
@@ -78,7 +78,7 @@ sortByName(members2024List).map((data, index) => {
     `
 });
 
-sortByName(members2025List).map((data, index) => {
+members2025List.map((data, index) => {
     members2025.innerHTML += `
     <div class="rj-card rj-card-sm">
         <img src="${data.img}">
@@ -90,7 +90,7 @@ sortByName(members2025List).map((data, index) => {
 `
 });
 
-sortByName(members2026List).map((data, index) => {
+members2026List.map((data, index) => {
     members2026.innerHTML += `
     <div class="rj-card rj-card-sm">
         <img src="${data.img}">
