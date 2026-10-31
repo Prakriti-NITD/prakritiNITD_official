@@ -755,7 +755,7 @@ const members2028List = [
         post: "VIDEO EDITING"
     },
     {
-        name: "G. AKSHAY REDDY",
+        name: "G. AKSHAY REDDY ",
         img: "./img/2028/AKSHAY.jpg",
         post: "WEB DEVELOPMENT"
     },
@@ -782,6 +782,7 @@ const members2028List = [
     {
         name: "NIHARIKA MISHRA",
         img: "./img/2028/niharika1.jpeg",
+    
         post: "WEB DEVELOPMENT"
     },
     {
