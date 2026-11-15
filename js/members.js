@@ -884,7 +884,7 @@ const postBearersList = [
 
     {
         name: "SIRIJA LINGAMPALLI",
-        img: "./img/2027/Sirija.jpg",
+        img: "./img/2027/sirija.png",
         post: "Ass. General Secretary"
     },
 
