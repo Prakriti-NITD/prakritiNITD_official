@@ -646,7 +646,7 @@ const members2027List = [
         post: "Tech Member"
     },
     {
-        name: "PRANGASIRK",
+        name: "KANUPARTHI PRAGNASRI",
         img: "./img/2027/Pragna Sri.jpg",
         post: "Core Member"
     },
@@ -667,7 +667,7 @@ const members2027List = [
     },
     {
         name: "SIRIJA LINGAMPALLI",
-        img: "./img/2027/Sirija.jpg",
+        img: "./img/2027/sirija.png",
         post: "Core Member"
     },
     /*{
